@@ -51,11 +51,11 @@ function validarJugada(petalo){
   
   if(valores[indice-1])
   {
-    str = "Me quiere" ;
+    str = "No me  quiere" ;
   }
   else
   {
-    str = "No me quiere" ;    
+    str = "Me quiere" ;    
   }
  
   //alert(mensaje); 
